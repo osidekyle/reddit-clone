@@ -1,6 +1,6 @@
 package com.kyle.redditclone.repository;
 
-import com.programming.techie.springredditclone.model.VerificationToken;
+import com.kyle.redditclone.model.VerificationToken;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,6 +1,6 @@
 package com.kyle.redditclone.repository;
 
-import com.programming.techie.springredditclone.model.RefreshToken;
+import com.kyle.redditclone.model.RefreshToken;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;
