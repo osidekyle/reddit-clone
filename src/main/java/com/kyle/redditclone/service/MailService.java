@@ -1,4 +1,4 @@
-package com.programming.techie.springredditclone.service;
+package com.kyle.redditclone.service;
 
 import com.kyle.redditclone.exceptions.SpringRedditException;
 import com.kyle.redditclone.model.NotificationEmail;
